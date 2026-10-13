@@ -1,0 +1,4 @@
+Name: SystemModel
+Type: SystemModelFolder
+Children:
+- File: Projects/Projects.yaml

@@ -30,9 +30,13 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 2.0
+  8:
+   Uri: 'urn:FTOptix:Supervisor'
+   Module: FTOptix.Supervisor
+   Version: 1.0
  Statistics:
-  TotalNodeCount: 135
-  Objects: 80
+  TotalNodeCount: 138
+  Objects: 83
   ObjectTypes: 1
   Variables: 54
   VariableTypes: 0
@@ -40,6 +44,6 @@ Project:
   Methods: 0
   References: 4
   ReferenceTypes: 0
-  Files: 23
+  Files: 26
  Nodes:
  - File: Nodes/HMISupervisorProject.yaml

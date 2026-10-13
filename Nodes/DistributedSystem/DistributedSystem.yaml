@@ -1,0 +1,4 @@
+Name: DistributedSystem
+Type: DistributedSystemCategoryFolder
+Children:
+- File: SystemModel/SystemModel.yaml

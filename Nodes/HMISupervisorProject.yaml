@@ -72,3 +72,4 @@ Children:
 - File: HighAvailability/HighAvailability.yaml
 - Name: GeneralCertificateManagement
   Type: PropertyGroup
+- File: DistributedSystem/DistributedSystem.yaml
